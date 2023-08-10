@@ -28,3 +28,8 @@ Test all API endpoints and CRUD operations
 Add validation and error handling
 
 ```
+
+
+
+https://github.com/CypherNyx/shopping-backend-orm/assets/133705303/0a83c6dd-2ad6-4a11-bace-b9f77a96d9c0
+
