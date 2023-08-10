@@ -1,5 +1,5 @@
 # Shopping Backend Routes - ORM ecommerce site
-> Module 13 Challenge - SQL Challenge: Employee Tracker
+> Module 13 - Object-Relational Mapping (ORM) Challenge: E-commerce Back End
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -44,7 +44,7 @@ git clone https://github.com/CypherNyx/shopping-backend-orm.git
 5. Run ```node seeds/index.js``` to seed the DB (optional)
 6. Run npm start to start the server on localhost
 
-### NPM and other Dependencies: 
+### Technologies: 
  - Node.js
  - Express
  - Sequelize ORM
@@ -52,7 +52,7 @@ git clone https://github.com/CypherNyx/shopping-backend-orm.git
  - dotenv
  - mysql2
 
-<br>
+
 <br>
 
 ## Usage
@@ -60,17 +60,18 @@ The API can be tested locally using a REST client like Insomnia or Postman. The 
 
 Some key routes include:
 
-GET /api/products
-GET /api/categories
-POST /api/products
-PUT /api/categories/1
-DELETE /api/tags/1
-Seed data is provided to prepopulate the database with products, categories and tags.
+- GET /api/products
+- GET /api/categories
+- POST /api/products
+- PUT /api/categories/1
+- DELETE /api/tags/1
+- Seed data is provided to prepopulate the database with products, categories and tags.
 
-Environment variables should be defined in a .env file for the DB connection settings.
+<br>
 
 ## Contributing
 Pull requests are welcome. Please open an issue first to discuss any proposed changes or additions.
+<br>
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -78,7 +79,7 @@ Pull requests are welcome. Please open an issue first to discuss any proposed ch
   https://opensource.org/licenses/MIT <br> 
   This project is open source and available under the MIT License.
 
-
+<br>
 
   ## Questions
   GitHub [CypherNyx](https://github.com/CypherNyx)<br>
